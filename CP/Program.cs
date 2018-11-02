@@ -9,6 +9,8 @@ namespace CP
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Best movies ever!");
+
+            Console.WriteLine("Moive name: Infinite Extremism");
         }
     }
 }
